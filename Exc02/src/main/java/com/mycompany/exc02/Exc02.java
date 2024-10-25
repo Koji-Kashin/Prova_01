@@ -22,11 +22,11 @@ public class Exc02 {
         
         int idade, meses, dias,calc;
         
-        System.out.print("Digite abaixo em numeros a sua idade: ");
+        System.out.print("Digite em numeros a sua idade: ");
         idade = ler.nextInt();
-        System.out.print("Agora digite em numeros, os meses de idade: ");
+        System.out.print("Agora digite em numeros, quantos meses de idade voce tem: ");
         meses = ler.nextInt();
-        System.out.print("Por fim, digite em numeros os dias: ");
+        System.out.print("Por fim, digite em numeros quantos dias de idade: ");
         dias = ler.nextInt();
         
         System.out.println("Calculando...");
